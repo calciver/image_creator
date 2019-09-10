@@ -1,5 +1,6 @@
 import cv2
 import numpy as np
+import os
 
 #Folder locations
 input_folder = 'input'
